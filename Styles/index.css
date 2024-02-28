@@ -186,3 +186,7 @@ section div p {
   transition: 0.75s ease-in-out;
   background-color: #ff683c;
 }
+
+.underline {
+  text-decoration: none;
+}
