@@ -78,3 +78,23 @@ img {
   text-shadow: 5px 5px 5px white;
   font-weight: 200;
 }
+
+.nav-ref{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: end;
+  width: 20%;
+  font-size: 20px;
+  font-style: oblique;
+  gap: 30px;
+}
+
+.nav-text{
+  color: black;
+}
+
+.nav-text-hov:hover{
+  transition: 0.75s ease-in-out;
+  color: #FF683C;
+}
