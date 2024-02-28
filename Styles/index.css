@@ -124,3 +124,25 @@ section div p{
   transition: 0.25s ease-in;
   color: #FF683C;
 }
+
+.back-color{
+  background-color: rgb(134, 191, 235);
+}
+
+.footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+.facebook:hover{
+  transition: 0.50s ease-in-out;
+  color: black;
+}
+
+.twitter:hover{
+  transition: 0.50s ease-in-out;
+  color: black;
+}
