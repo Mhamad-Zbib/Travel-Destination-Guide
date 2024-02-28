@@ -31,6 +31,8 @@ img {
 
 .box{
   display: flex;
+  flex-direction: row;
+  justify-content: space-around;
   background-color: rgb(134, 191, 235);
   width: 100%;
   padding: 10px;
@@ -42,4 +44,37 @@ img {
   width: 100%;
   height: 600px;
   border: inset 2px #225577;
+}
+
+.img-one {
+  display: flex;
+  background-image: url("/Images/Paris.jpg");
+  background-size: 150%;
+  border-radius: 25px;
+}
+
+.img-two{
+  display: flex;
+  background-image: url(/Images/Roma.jpg);
+  background-size: 150%;
+  border-radius: 25px;
+}
+
+.img-three{
+  display: flex;
+  background-image: url(/Images/Dubai.jpg);
+  background-size: 150%;
+  border-radius: 25px;
+}
+
+.text-box{
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+  font-style: oblique;
+  text-shadow: 5px 5px 5px white;
+  font-weight: 200;
 }
