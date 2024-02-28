@@ -48,22 +48,25 @@ img {
 
 .img-one {
   display: flex;
-  background-image: url("/Images/Paris.jpg");
-  background-size: 150%;
+  background-image: url(/Images/Paris.jpg);
+  background-position: center;
+  background-size: 160%;
   border-radius: 25px;
 }
 
 .img-two{
   display: flex;
   background-image: url(/Images/Roma.jpg);
-  background-size: 150%;
+  background-position: center;
+  background-size: 160%;
   border-radius: 25px;
 }
 
 .img-three{
   display: flex;
   background-image: url(/Images/Dubai.jpg);
-  background-size: 150%;
+  background-position: center;
+  background-size: 160%;
   border-radius: 25px;
 }
 
