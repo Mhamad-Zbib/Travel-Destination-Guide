@@ -169,13 +169,14 @@ section div p {
 
 .flight {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   text-decoration: none;
   color: black;
   border: 1px solid black;
   height: 50px;
-  width: 110%;
+  width: 100%;
+  padding: 20px;
   background-color: #225577;
   border-radius: 15%;
   border-style: groove;
