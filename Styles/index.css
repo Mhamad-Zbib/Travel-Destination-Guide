@@ -121,8 +121,8 @@ section div p{
 }
 
 .search-hov:hover{
-  transition: 0.25s ease-in;
-  color: #FF683C;
+  transition: 0.50s ease-in;
+  background-color: #FF683C;
 }
 
 .back-color{
