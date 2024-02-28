@@ -69,7 +69,7 @@
   flex-direction: row;
   justify-content: center;
   text-align: start;
-  font-size: 30px;
+  font-size: 27px;
 }
 
 .page-color {
@@ -90,7 +90,7 @@
 
 .about {
   font-size: 30px;
-  color: #5875a1;
+  color: #f98a68;
 }
 
 .profile-parag {
@@ -99,7 +99,7 @@
 }
 
 .backg-color {
-  background-color: rgb(185, 142, 142);
+  background-color: #f5ebb2;
 }
 
 .flex-footer {
