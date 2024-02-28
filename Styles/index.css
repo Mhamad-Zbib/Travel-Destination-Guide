@@ -149,3 +149,7 @@ section div p{
   transition: 0.50s ease-in-out;
   color: black;
 }
+
+.section-color{
+  background-color: rgb(134, 191, 235);
+}
